@@ -1,0 +1,1 @@
+<Project name="avr_serial"><Folder name="Programa"><File path="main.c"></File></Folder><Folder name="Primitivas"><File path="usart.c"></File><File path="usart.h"></File></Folder><Folder name="Firmware"><File path="fw_usart.h"></File><File path="fw_usart.c"></File></Folder><File path="Makefile"></File><File path="README.md"></File></Project>
